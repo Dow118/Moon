@@ -19,3 +19,6 @@ I just opened this site, To promote my music.
 There is a lot of shortage,
 
 anyway Thank you very much.
+
+## Contact Me
+

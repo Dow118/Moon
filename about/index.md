@@ -18,7 +18,7 @@ comments: false
 
 {% capture images %}
     /assets/img/onestep.jpg
-    /assets/img/image_lakeside.jpg
+    /assets/img/lakeside.png
 {% endcapture %}
 {% include gallery images=images caption="piona" cols=2 %}
 

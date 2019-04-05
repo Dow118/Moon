@@ -33,7 +33,7 @@ layout: compress
                     <ul>
                         <li id = "post_box" class="wow fadeInLeft" data-wow-duration="1.5s">
                             {% if post.image != null %}
-                            <img src="{{ post.image }}" width="500" height="300">
+                            <img src="{{ post.image }}" width="auto" height="auto">
                             {% endif %}
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>{{ post.excerpt }}</p>
