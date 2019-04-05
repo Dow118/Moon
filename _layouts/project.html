@@ -8,6 +8,12 @@ layout: compress
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
     {% include head.html %}
+    
+    <style type="text/css">
+    #post_box {
+        border : 4px inset #6E6E6E;
+    }
+</style>
 </head>
 <body>
     {% include nav.html %}
@@ -25,7 +31,7 @@ layout: compress
                     {% for post in site.posts %} 
                         {% if post.project %}
                     <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                        <li id = "post_box" class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>{{ post.excerpt }}</p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
