@@ -16,6 +16,9 @@ layout: compress
     .wowfadeInLeft{
         border : 4px inset #6E6E6E;
     }
+    #post_box {
+        border : 4px inset #6E6E6E;
+    }
 </style>
 </head>
 <body>
@@ -34,7 +37,7 @@ layout: compress
                     {% for post in site.posts %} 
                         {% if post.project == null %}
                     <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                        <li id = "post_box" class="wow fadeInLeft" data-wow-duration="1.5s">
                             {% if post.image != null %}
                             <img src="{{ post.image }}" width="500" height="300">
                             {% endif %}
