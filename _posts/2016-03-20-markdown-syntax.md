@@ -9,6 +9,7 @@ tag:
 - sample
 - test
 - jekyll
+image: /assets/img/logo.png
 comments: true
 ---
 

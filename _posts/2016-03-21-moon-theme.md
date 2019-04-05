@@ -11,9 +11,7 @@ tag:
 - about
 - theme
 src: /assets/img/logo.png
-thumbnail: /assets/img/logo.png
 image: /assets/img/logo.png
-feature: /assets/img/logo.png
 comments: true
 ---
 
