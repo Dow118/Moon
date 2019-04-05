@@ -6,7 +6,7 @@ date: 2019-04-05
 comments: false
 ---
     
-<center><b>I</b></a> am still, slowly stepping forward</center>
+<center><b>I</b> am still, slowly stepping forward</center>
 
 ## Who's one-seok?
 * Live in Seoul
