@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://www.one-seok.com/
 
 # Jekyll
 permalink:          /:title/
@@ -38,13 +38,13 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
+twitter:            OneStep0118
 #facebook:           username
 #github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          oneseok118
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -53,7 +53,7 @@ instagram:          username
 #steam:              username
 #dribbble:          username
 #youtube:           username
-youtube-channel:   channel
+youtube-channel:   UCvCi2XlWetS13MGHTmMrCoQ
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
