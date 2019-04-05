@@ -6,6 +6,7 @@ excerpt: "Slowly, Onestep, Music, YOU"
 project: true
 tag:
 - Announce
+feature: /assets/img/logo.png
 comments: false
 ---
 
