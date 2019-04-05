@@ -10,7 +10,7 @@ tag:
 - blog
 - about
 - theme
-image : https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png 
+feature : https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png 
 comments: true
 ---
 
