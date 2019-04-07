@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Announce] This site just OPEND!"
+title:  "[공지] 지금 시작합니다!"
 date:   2019-04-05
-excerpt: "Slowly, Onestep, Music, YOU"
+excerpt: "Slowly Onestep, Music, YOU"
 project: true
 tag:
 - Announce
@@ -11,15 +11,23 @@ comments: false
 ---
 
       
-## Thanks to Visit the site
+## 지금 시작합니다!
 
-Hi!
+안녕하세요!
 
-I just opened this site, To promote my music.
+음악으로 들려주는 나의 이야기, 
 
-There is a lot of shortage,
+지금 시작합니다.
 
-anyway Thank you very much.
+감사합니다.
+
 
 ## Contact Me
+
+언제든 환영합니다
+
+[Youtube](https://www.youtube.com/channel/UCvCi2XlWetS13MGHTmMrCoQ)
+[Grafolio](https://www.grafolio.com/onestep0118)
+E-mail : ston118@naver.com
+
 

@@ -6,9 +6,10 @@ date: 2019-04-05
 comments: false
 ---
     
-<center><b>I</b> am still, slowly stepping forward</center>
+<center><b>나</b>는 여전히, 앞으로 한걸음 나아가고있다.</center>
 
 ## Who's one-seok?
+
 * Live in Seoul
 * College Student - Major in Computer Science
 * Like playing game, piano and listening music, taking photos.
