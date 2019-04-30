@@ -18,8 +18,8 @@ comments: false
 ## My Songs
 
 {% capture images %}
-    /assets/img/onestep.jpg
-    /assets/img/lakeside.png
+    /assets/img/[호숫가에서] 섬네일_이미지.PNG
+    /assets/img/[MemoryRain] 섬네일_이미지.png
 {% endcapture %}
 {% include gallery images=images caption="piona" cols=2 %}
 

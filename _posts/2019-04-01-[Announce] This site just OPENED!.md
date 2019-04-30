@@ -2,7 +2,7 @@
 layout: post
 title:  "[공지] 지금 시작합니다!"
 date:   2019-04-01
-excerpt: "Slowly Onestep, Music, YOU"
+excerpt: "OneStep to YOU"
 project: true
 tag:
 - Announce
