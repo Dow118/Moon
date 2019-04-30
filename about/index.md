@@ -18,9 +18,9 @@ comments: false
 ## My Songs
 
 {% capture images %}
-    /assets/img/[호숫가에서] 섬네일_이미지.PNG
-    /assets/img/[MemoryRain] 섬네일_이미지.png
+    /assets/img/onestep.jpg
+    /assets/img/lakeside.png
 {% endcapture %}
-{% include gallery images=images caption="piona" cols=2 %}
+{% include gallery images=images caption="piano & piona" cols=2 %}
 
 Listen a [live version of song](https://www.youtube.com/channel/UCvCi2XlWetS13MGHTmMrCoQ) uploaded on YouTube or [here](https://www.grafolio.com/onestep0118)
